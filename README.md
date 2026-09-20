@@ -407,6 +407,9 @@ AI tools were used as development assistants. The **GRIDPOINT concept, product d
 
 Our complete hackathon presentation is available in:
 
+[GridPoint.pdf](https://github.com/user-attachments/files/32433701/GridPoint.pdf)
+
+
 
 
 
