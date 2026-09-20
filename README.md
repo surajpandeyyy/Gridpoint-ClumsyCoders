@@ -1,4 +1,4 @@
-<img width="1508" height="400" alt="image" src="https://github.com/user-attachments/assets/08aa32ef-bb08-4878-a69e-63455bdf7535" /># Gridpoint-ClumsyCoders
+# Gridpoint-ClumsyCoders
 # 📍 GRIDPOINT
 
 ### Where should the warehouse go?
