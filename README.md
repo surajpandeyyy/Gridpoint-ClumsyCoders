@@ -1,4 +1,4 @@
-# Gridpoint-ClumsyCoders
+<img width="1508" height="400" alt="image" src="https://github.com/user-attachments/assets/08aa32ef-bb08-4878-a69e-63455bdf7535" /># Gridpoint-ClumsyCoders
 # 📍 GRIDPOINT
 
 ### Where should the warehouse go?
@@ -407,24 +407,22 @@ AI tools were used as development assistants. The **GRIDPOINT concept, product d
 
 Our complete hackathon presentation is available in:
 
-```text
-docs/
-└── presentation/
-    └── GRIDPOINT_Hackathon_Presentation.pptx
-```
 
----
+
 
 # 📸 Screenshots
 
-```text
-docs/
-└── screenshots/
-    ├── dashboard.png
-    ├── optimization-result.png
-    ├── data.png
-    └── map.png
-```
+<img width="1600" height="894" alt="image" src="https://github.com/user-attachments/assets/81428d00-6205-454d-8e9d-d222f7659ede" />
+<img width="1600" height="891" alt="image" src="https://github.com/user-attachments/assets/372457c7-090d-4b43-b3c3-3fcd5785bc16" />
+<img width="1600" height="880" alt="image" src="https://github.com/user-attachments/assets/e31905c8-d0e9-46aa-948c-fdabaa6bbd63" />
+<img width="1600" height="905" alt="image" src="https://github.com/user-attachments/assets/4cf79166-cd7c-41a3-b266-753f92e76fe9" />
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/65f1310d-021c-4c95-a4a9-f04a3506f45c" />
+<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/8c3b6399-e2f8-426f-8752-debc99ed14f9" />
+<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/0b43014a-ebda-4fa9-aa01-d73506be0039" />
+<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/d687a23e-8699-42ad-bfad-40184c9fd3e9" />
+<img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/dbb912cc-0a12-4ca1-a011-58bf1169d671" />
+<img width="1600" height="798" alt="image" src="https://github.com/user-attachments/assets/2178c94e-7d76-4f32-8f1d-7175af75418a" />
+
 
 ---
 
